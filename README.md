@@ -1,4 +1,13 @@
-### Hi there 👋
+### Luiz Gustavo Weber Thums :computer:
+
+Olá, meu nome é Luiz Gustavo, sou estudante de sistemas para internet (TSI) na UTFPR campus Toledo, previsão de conclusão ~~2020~~ 2021 :( valeu covid, Trabalho com desenvolvimento backend (PHP, nodeJS), frontend(HTML, CSS, JS), domínio de alguns frameworks e bibliotecas backend e frontend,  conhecimento em redes e infraestrutura, desenvolvimento de alguns cenários BI com qlikview e power BI básicos, estudante de data science e machine learning nas horas vagas
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-gustavo-weber-thums-5215b2113/)](https://www.linkedin.com/in/luiz-gustavo-weber-thums-5215b2113/)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-badge?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/LuizGustavoWT/)](https://gitlab.com/LuizGustavoWT/)
+
+## Tecnologias & Interesses
+
+`PHP` `Python` `Javascript` `Typescript` `React` `React Native` `Java` `MySQL` `PostgeSQL` `SQLServer` `Machine Learning` `Ciência de Dados`
 
 <!--
 **LuizGustavoWT/LuizGustavoWT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
