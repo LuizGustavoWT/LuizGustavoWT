@@ -8,9 +8,7 @@ Olá, meu nome é Luiz Gustavo, sou formado em Tecnologia em Sistemas para Inter
 
 ### Ultimas Experiências 
 
-# Tech Lead (Rentcars.com) 
-
-# Desenvolvedor Senior (Rentcars.com)
+`Tech Lead (Rentcars.com)` `Desenvolvedor Senior (Rentcars.com)
 
 
 ### Tecnologias & Interesses
